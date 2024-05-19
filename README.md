@@ -1,5 +1,12 @@
 <h1>Sensor de Batimentos Cardíacos com Internet das Coisas</h1>
-Projeto criado com Arduino IDE para uma solução simples e alternativa para monitoramento de frequência cardíaca.
+PO projeto visa desenvolver um sensor de batimentos cardíacos utilizando a
+plataforma o módulo NodeMCU ESP8266. Através de um sensor de pulso, o
+dispositivo é capaz de monitorar os batimentos cardíacos em tempo real.
+Posteriormente, o projeto processa essas informações e as apresenta em um
+display remoto no qual deve ser conectado pela rede. Essa abordagem oferece
+uma solução acessível para o monitoramento cardíaco.
+
+
 <h2>Componentes utilizados para a montagem do protótipo:</h2>
 <p> •	1 x ESP8266 NodeMCU; </p>
 <p> •	1 x Cabo Micro USB compatível com NodeMCU ESP8266; </p>
