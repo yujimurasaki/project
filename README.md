@@ -6,4 +6,4 @@ Componentes utilizados para a montagem do protótipo:
 <p> •	Jumpers macho-fêmea </p>
 <p> • Protoboard </p>
 
-<p> https://www.espressif.com/sites/default/files/documentation/esp8266-technical_reference_en.pdf </p>
+<p> ESP8266 TECHNICAL REFERENCES https://www.espressif.com/sites/default/files/documentation/esp8266-technical_reference_en.pdf </p>
