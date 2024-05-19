@@ -6,6 +6,9 @@ Componentes utilizados para a montagem do protótipo:
 <p> •	Jumpers macho-fêmea </p>
 <p> • Protoboard </p>
 
+<p>É necessário a utilização do site https://www.hivemq.com/demos/websocket-client/ para poder acessar via WiFi </p>
+
+<h2> Documentação das interfaces, protocolos e módulos de comunicação utilizados </h2>
 <p> ESP8266 TECHNICAL REFERENCES https://www.espressif.com/sites/default/files/documentation/esp8266-technical_reference_en.pdf </p>
 <p> WiFi(802.11) https://embarcados.com.br/a-evolucao-do-protocolo-wi-fi-ieee-802-11/ </p>
 <p> MQTT https://aws.amazon.com/pt/what-is/mqtt/#:~:text=O%20protocolo%20MQTT%20define%20um,envolvida%20em%20um%20envelope%20WSS </p>
