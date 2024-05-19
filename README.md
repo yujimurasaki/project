@@ -14,6 +14,19 @@ Projeto criado com Arduino IDE para uma solução simples e alternativa para mon
 <p>Windows: Execute o instalador baixado e siga as instruções na tela. Certifique-se de instalar todos os drivers necessários durante o processo de instalação. macOS: Abra o arquivo .zip baixado e arraste o aplicativo Arduino para a pasta "Aplicativos". Linux: Descompacte o arquivo baixado e execute o script de instalação. Verificar a Instalação:</p>
 <p>Abra a IDE do Arduino para garantir que foi instalada corretamente. Configurando a ESP32 na IDE do Arduino Adicionar o URL do Gerenciador de Placas para a ESP32:</p>
 <p>Na IDE do Arduino, vá até "Arquivo" > "Preferências". No campo "URLs Adicionais de Gerenciadores de Placas", insira o seguinte URL para o pacote da ESP32:</p>
+<p>https://dl.espressif.com/dl/package_esp32_index.json</p>
+<p>Clique em "OK" para salvar.</p>
+
+<h3>Instalação do ESP8266</h3>
+<p>• Abra a IDE do Arduino "Files -> Preferences"</p>
+<p>• Additional boards manager URL's: http://arduino.esp8266.com/stable/package_esp8266com_index.json</p>
+<p>• Tools -> Boards -> Boards Manager... </p>
+<p>• Pesquise por esp8266 e instale o pacote </p>
+<p>• Sketch -> Include Library -> Manage Libraries... </p>
+<p>• Pesquise por PubSubClient para comunicação com protocolo MQTT </p>
+<p>• Pesquise por ESP8266WiFi  para comunicação com WiFi </p>
+
+
 
 <p>É necessário a utilização do site https://www.hivemq.com/demos/websocket-client/ para poder acessar via WiFi </p>
 
