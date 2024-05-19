@@ -7,6 +7,8 @@ Projeto criado com Arduino IDE para uma solução simples e alternativa para mon
 <p> •	Jumpers macho-fêmea </p>
 <p> • Protoboard </p>
 
+<h2>Passo a passo para utilização do projeto </h2>
+
 <p>É necessário a utilização do site https://www.hivemq.com/demos/websocket-client/ para poder acessar via WiFi </p>
 
 <h2> Documentação das interfaces, protocolos e módulos de comunicação utilizados </h2>
