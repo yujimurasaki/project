@@ -7,3 +7,7 @@ Componentes utilizados para a montagem do protótipo:
 <p> • Protoboard </p>
 
 <p> ESP8266 TECHNICAL REFERENCES https://www.espressif.com/sites/default/files/documentation/esp8266-technical_reference_en.pdf </p>
+<p> WiFi(802.11) https://embarcados.com.br/a-evolucao-do-protocolo-wi-fi-ieee-802-11/ </p>
+<p> MQTT https://aws.amazon.com/pt/what-is/mqtt/#:~:text=O%20protocolo%20MQTT%20define%20um,envolvida%20em%20um%20envelope%20WSS </p>
+<p>Esp8266Wifi Library https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html </p>
+<p>PubSubClient https://www.arduino.cc/reference/en/libraries/pubsubclient/ </p>
