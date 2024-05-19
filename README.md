@@ -34,8 +34,19 @@ Projeto criado com Arduino IDE para uma solução simples e alternativa para mon
 
 
 <h2>Conexão via HiveMQ </h2>
-<img src="https://i.imgur.com/BJWDHby.png">
 <p>É necessário a utilização do site https://www.hivemq.com/demos/websocket-client/ para poder acessar via WiFi </p>
+<p>Configure o HIVEMQ da seguinte maneira: </p>
+<p> >Host: mqtt.eclipseprojects.io</p>
+<p> >Port: 443</p>
+<p> >Client: ClientBatimentos</p>
+<p> >Connect </p>
+<p> >Subscriptions -> Add New Topic Subscription </p>
+<p> >Topic: sensor/bpm</p>
+
+
+
+
+
 
 <h2> Documentação das interfaces, protocolos e módulos de comunicação utilizados </h2>
 <p> ESP8266 TECHNICAL REFERENCES https://www.espressif.com/sites/default/files/documentation/esp8266-technical_reference_en.pdf </p>
