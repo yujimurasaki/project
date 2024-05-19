@@ -8,6 +8,12 @@ Projeto criado com Arduino IDE para uma solução simples e alternativa para mon
 <p> • Protoboard </p>
 
 <h2>Passo a passo para utilização do projeto </h2>
+<h3> Instalação da IDE do Arduino</h3>
+<p>Baixar a IDE do Arduino: </p>
+<p>Acesse o site oficial do Arduino. Navegue até a seção de downloads e escolha a versão da IDE do Arduino compatível com seu sistema operacional (Windows, macOS ou Linux). Instalar a IDE:</p>
+<p>Windows: Execute o instalador baixado e siga as instruções na tela. Certifique-se de instalar todos os drivers necessários durante o processo de instalação. macOS: Abra o arquivo .zip baixado e arraste o aplicativo Arduino para a pasta "Aplicativos". Linux: Descompacte o arquivo baixado e execute o script de instalação. Verificar a Instalação:</p>
+<p>Abra a IDE do Arduino para garantir que foi instalada corretamente. Configurando a ESP32 na IDE do Arduino Adicionar o URL do Gerenciador de Placas para a ESP32:</p>
+<p>Na IDE do Arduino, vá até "Arquivo" > "Preferências". No campo "URLs Adicionais de Gerenciadores de Placas", insira o seguinte URL para o pacote da ESP32:</p>
 
 <p>É necessário a utilização do site https://www.hivemq.com/demos/websocket-client/ para poder acessar via WiFi </p>
 
