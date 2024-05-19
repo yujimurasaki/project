@@ -22,12 +22,19 @@ Projeto criado com Arduino IDE para uma solução simples e alternativa para mon
 <p>• Additional boards manager URL's: http://arduino.esp8266.com/stable/package_esp8266com_index.json</p>
 <p>• Tools -> Boards -> Boards Manager... </p>
 <p>• Pesquise por esp8266 e instale o pacote </p>
+
+
+<h3>Instalação das Bibliotecas </h3>
 <p>• Sketch -> Include Library -> Manage Libraries... </p>
 <p>• Pesquise por PubSubClient para comunicação com protocolo MQTT </p>
 <p>• Pesquise por ESP8266WiFi  para comunicação com WiFi </p>
 
+<h3>Configuração para utilização </h3>
+<p>Dentro do próprio código foi comentado detalhadamente o que deve ser realizado para funcionar o código </p>
 
 
+<h2>Conexão via HiveMQ </h2>
+<img src="https://i.imgur.com/BJWDHby.png">
 <p>É necessário a utilização do site https://www.hivemq.com/demos/websocket-client/ para poder acessar via WiFi </p>
 
 <h2> Documentação das interfaces, protocolos e módulos de comunicação utilizados </h2>
